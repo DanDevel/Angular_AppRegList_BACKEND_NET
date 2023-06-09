@@ -63,5 +63,17 @@ Execute o comando dotnet run para iniciar a API.
 Acesse a documentação da API em http://localhost:<porta>/swagger, onde <porta> é a porta configurada para a execução da API.
 Esse README detalhado destaca as principais características e tecnologias utilizadas no projeto da API com Swagger. Ele demonstra nosso comprometimento com a qualidade de código, segurança e documentação adequada.
   
+
+# PRINTS do sistema:
+  
+## SWAGGER - HOME:
+https://github.com/DanDevel/Angular_AppRegList_BACKEND_NET/blob/main/PrintsDoSistema/SWAGGER_home.png
+  
+## SWAGGER - GET Request:
+https://github.com/DanDevel/Angular_AppRegList_BACKEND_NET/blob/main/PrintsDoSistema/SWAGGER_GetRequest.png
+  
+## SWAGGER - GET Request ID:
+https://github.com/DanDevel/Angular_AppRegList_BACKEND_NET/blob/main/PrintsDoSistema/SWAGGER_GetRequest_ID.png
+
   
   
